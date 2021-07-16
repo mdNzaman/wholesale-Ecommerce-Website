@@ -1,9 +1,9 @@
-# Responsive-Ecommerce-Website
-Front-end for an e-commerce clothes selling website.
+# wholesale-Ecommerce-Website
+Front-end for an wholesale-Ecommerce selling website.
 ## About
-1- It is a responsive webpage containing nice animations. <br />
+1- It is a wholesale webpage containing nice animations. <br />
 2- Contains a well authenticated contact, login and sinup froms.<br />
-3- Contains many categories regarding clothes.<br />
+3- Contains many categories regarding clothes,gym and chocolate.<br />
 4- A nice Footer.<br />
 5- Authenticated Payment Page.<br />
 5- A nice Cart Page.

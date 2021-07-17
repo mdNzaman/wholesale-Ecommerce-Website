@@ -20,7 +20,6 @@ Target audience are small vendors and Suppliers are large vendors.<br/>
 <img src="Demo_look/Web_look_5.PNG" width = "100%">
 <img src="Demo_look/Web_look_6.PNG" width = "100%">
 <img src="Demo_look/Web_look_7.PNG" width = "100%">
-<img src="Demo_look/Web_look_8.PNG" width = "100%">
 <img src="Demo_look/Web_look_9.PNG" width = "100%">
 <img src="Demo_look/Web_look_10.PNG" width = "100%">
 <img src="Demo_look/Web_look_11.PNG" width = "100%">
